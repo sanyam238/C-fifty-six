@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+  background-color: aqua;      
+}
+div{
+    margin-top: 15px;
+}
+.Image_section{
+    display: flex;
+    justify-content: center;}
+img{
+    width: 400px;
+}
